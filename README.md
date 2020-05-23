@@ -26,5 +26,5 @@ Useful commands:
 * cat
 * for loop
 * echo
-* To run: ./script.sh
+* To run: ```./script.sh```
 
